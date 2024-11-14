@@ -1,5 +1,6 @@
 package com.devsuperior.dslist.entities;
 
+import java.io.Serializable;
 import java.util.Objects;
 
 import jakarta.persistence.Column;
